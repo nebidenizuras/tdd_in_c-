@@ -2,3 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/VS/packages/Microsoft.googletest.v140.windesktop.msvcstl.static.rt-dyn.1.8.0
+/VS/.vs/tdd_in_cpp/v15
